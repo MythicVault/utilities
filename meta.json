@@ -1,11 +1,11 @@
 {
   "id": "19f71339-3b73-42aa-b2df-8967cb9f0a5e",
-  "name": "Repository - UA",
+  "name": "DnD content Repository - UA",
   "description": "This repository includes packs with all DnD content up to 2025",
   "packs": [
     {
       "id": "052ec90d-693c-4bd6-a2d3-9fde5b140752",
-      "name": "Pack 2025 - UA",
+      "name": "DnD content pack 2025 - UA",
       "description": "This pack includes all DnD content up to 2025",
       "url": "https://github.com/MythicVault/utilities/raw/refs/heads/main/052ec90d-693c-4bd6-a2d3-9fde5b140752.zip",
       "version": "0.0.1"
