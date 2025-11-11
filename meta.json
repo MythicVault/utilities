@@ -1,14 +1,14 @@
 {
   "id": "19f71339-3b73-42aa-b2df-8967cb9f0a5e",
   "name": "DnD Content Repository - UA",
-  "description": "This repository includes packs with all DnD content up to 2025",
+  "description": "Цей репозиторій містить пакети з усім контентом DnD до 2025 року.",
   "packs": [
     {
       "id": "052ec90d-693c-4bd6-a2d3-9fde5b140752",
       "name": "DnD Content Pack 5e-SRD - UA",
-      "description": "This pack includes DnD content 5e SRD",
+      "description": "Цей пакет містить контент DnD 5e SRD",
       "url": "https://github.com/MythicVault/utilities/raw/refs/heads/main/052ec90d-693c-4bd6-a2d3-9fde5b140752.zip",
-      "version": "0.0.3"
+      "version": "0.0.4"
     }
   ]
 }
