@@ -5,10 +5,10 @@
   "packs": [
     {
       "id": "052ec90d-693c-4bd6-a2d3-9fde5b140752",
-      "name": "DnD Content Pack 2025 - UA",
-      "description": "This pack includes all DnD content up to 2025",
+      "name": "DnD Content Pack 5e-SRD - UA",
+      "description": "This pack includes DnD content 5e SRD",
       "url": "https://github.com/MythicVault/utilities/raw/refs/heads/main/052ec90d-693c-4bd6-a2d3-9fde5b140752.zip",
-      "version": "0.0.2"
+      "version": "0.0.3"
     }
   ]
 }
