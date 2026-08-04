@@ -6,28 +6,28 @@
   "packs": [
     {
       "id": "ebdd681a-9837-4102-980b-9aa20b11cca1",
-      "name": "Неофіційні класи",
+      "name": "Класи",
       "description": "Класи та підкласи поза SRD 5.1. Доповнює SRD Core.",
       "version": "1.0.0",
       "url": "https://github.com/MythicVault/utilities/raw/refs/heads/main/ebdd681a-9837-4102-980b-9aa20b11cca1.zip"
     },
     {
       "id": "421ca441-4abc-4b1f-8e9f-2ceafd45d34d",
-      "name": "Неофіційні раси",
+      "name": "Раси",
       "description": "Раси поза SRD 5.1 — сеттінги та розширення. Доповнює SRD Core.",
       "version": "1.0.0",
       "url": "https://github.com/MythicVault/utilities/raw/refs/heads/main/421ca441-4abc-4b1f-8e9f-2ceafd45d34d.zip"
     },
     {
       "id": "0e50fe18-6811-4a75-8795-a5b4c3cc6962",
-      "name": "Неофіційні риси",
+      "name": "Риси",
       "description": "Риси поза SRD 5.1. Доповнює SRD Core.",
       "version": "1.0.0",
       "url": "https://github.com/MythicVault/utilities/raw/refs/heads/main/0e50fe18-6811-4a75-8795-a5b4c3cc6962.zip"
     },
     {
       "id": "779ffc7a-4b24-4b3d-94a8-c36d728cd56d",
-      "name": "Неофіційні закляття",
+      "name": "Закляття",
       "description": "Закляття поза SRD 5.1 — решта PHB, XGE, TCE та інші. Доповнює SRD Core.",
       "version": "1.0.0",
       "url": "https://github.com/MythicVault/utilities/raw/refs/heads/main/779ffc7a-4b24-4b3d-94a8-c36d728cd56d.zip"
